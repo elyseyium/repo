@@ -3,7 +3,7 @@
         "Author": "Elyseyium",
         "Name": "Elysync Client",
         "InternalName": "elysync",
-        "AssemblyVersion": "0.11.23",
+        "AssemblyVersion": "0.11.24",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/elyseyium/mare-repo",
@@ -18,8 +18,8 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "CanUnloadAsync": true,
-        "DownloadLinkInstall": "https://github.com/elyseyium/mare-client/releases/download/v1.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/elyseyium/mare-client/releases/download/v1.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/elyseyium/mare-client/releases/download/v1.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/elyseyium/mare-client/releases/download/v1.0.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/elyseyium/mare-client/releases/download/v1.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/elyseyium/mare-client/releases/download/v1.0.2/latest.zip"
     }
 ]
